@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="tv_login_rotule">Login</string>
+    <string name="til_email">Email</string>
+    <string name="til_password">Senha</string>
+    <string name="tv_create_register">voltar para Login</string>
+    <string name="tv_register_rotule">CAdastro</string>
+    <string name="til_email_register">"Email "</string>
+    <string name="til_password_register">Senha</string>
+    <string name="btn_geister_rotule">Salvar</string>
+    <string name="tv_create_login">Não tem conta, cadastre-se</string>
+    <string name="btn_logout">Logout</string>
+</resources>
